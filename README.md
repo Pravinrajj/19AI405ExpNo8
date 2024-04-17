@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: Pravinrajj G.k</h3>
+<h3>Name: Pravinrajj G.K</h3>
 <h3>Register Number : 212222240080</h3>
 <H3>Aim:</H3>
 <p>
